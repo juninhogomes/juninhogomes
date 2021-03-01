@@ -19,7 +19,7 @@ My name is Nathanael Gomes, but my friends call me **Juninho Gomes**
 
 * :computer: I'm working with website creation at [Digitalen](digitalen.com.br), in São Paulo - SP
 * :trophy: I have a degree in Production Engineering
-* 🌱 I am currently studying [JavaScript](https://github.com/juninhogomes/CursoJS) and [TypeScript](https://github.com/microsoft/TypeScript-Website).
+* 🌱 I am currently studying [Python](https://github.com/juninhogomes/Python), [JavaScript](https://github.com/juninhogomes/CursoJS) e [TypeScript](https://github.com/microsoft/TypeScript-Website)
 * :notebook: I know about HTML, CSS, and WordPress, but, I'm trying to expand to other areas in the digital market.
 * :dart: My next goal is to start to develop mobile apps in a few months
 * ⚡ I want to increase my collaborations on Github helping projects, knowing peoples, new techs and share my knowledge and experiences.
