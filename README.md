@@ -4,7 +4,7 @@ Meu nome é Nathanael Gomes, também conhecido como **Juninho Gomes**.
 
 * :computer: Estou trabalhando com criação de sites na [Digitalen](digitalen.com.br), na cidade de São Paulo - SP
 * :trophy: Minha formação acadêmica é na área de Engenharia de produção
-* 🌱 No momento estou estudando [Python](https://github.com/juninhogomes/Python) [JavaScript](https://github.com/juninhogomes/CursoJS) e [TypeScript](https://github.com/microsoft/TypeScript-Website)
+* 🌱 No momento estou estudando [Python](https://github.com/juninhogomes/Python), [JavaScript](https://github.com/juninhogomes/CursoJS) e [TypeScript](https://github.com/microsoft/TypeScript-Website)
 * :notebook: Sei trabalhar com HTML, CSS e WordPress, mas estou buscando expandir para outras áreas no digital.
 * :dart: Meu objetivo nos próximos meses é começar a desenvolver apps mobiles
 * ⚡ Quero aumentar minhas colaborações no Github ajudando em projetos, conhecendo novas pessoas, tecnologias e compartilhando meus conhecimentos e experiências.
